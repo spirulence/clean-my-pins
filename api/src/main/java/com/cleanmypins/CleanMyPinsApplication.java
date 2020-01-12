@@ -13,7 +13,6 @@ public class CleanMyPinsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CleanMyPinsApplication.class, args);
-
     }
 
     @Bean
