@@ -1,0 +1,1 @@
+docker run -e MYSQL_ROOT_PASSWORD=secure -e MYSQL_DATABASE=local -p 127.0.0.1:5306:3306 mysql:5.7
